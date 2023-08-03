@@ -2,7 +2,7 @@
  * stop_watch_project.c
  *
  *  Created on: Apr 17, 2023
- *      Author: mhoss
+ *      Author: Mohammed Hossam
  */
 
 #include <avr/io.h>
